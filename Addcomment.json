@@ -1,0 +1,7 @@
+{
+    "body": "Hey my first rest api comment",
+    "visibility": {
+        "type": "role",
+        "value": "Administrators"
+    }
+}
